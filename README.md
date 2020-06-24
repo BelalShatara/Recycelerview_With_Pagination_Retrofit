@@ -3,4 +3,4 @@ Android Pagination Recyclerview using Retrofit with Kotlin
 
 Screenshot : 
 
-![Screenshot](1.png)
+![Screenshot](https://github.com/BelalShatara/Recycelerview_With_Pagination_Retrofit/blob/master/Screenshots/1.PNG)
